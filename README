@@ -1,0 +1,15 @@
+# Multi-Agent Data Pipeline
+
+3 AI Agents autonomously coordinate to process enterprise data.
+
+### How it Works:
+- **Agent 1 - CleanerAgent:** Cleans raw sales data
+- **Agent 2 - AnalystAgent:** Analyzes cleaned data
+- **Agent 3 - ReporterAgent:** Generates final enterprise report
+
+### Tech Stack:
+Python, Streamlit, Multi-Agent System
+
+### How to Run:
+pip install -r requirements.txt
+streamlit run app.py
